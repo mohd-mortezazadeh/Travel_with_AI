@@ -9,12 +9,12 @@ django-allauth==64.0.0
 django-cors-headers==4.4.0
 django-filter==24.3
 djangorestframework==3.15.2
-djangorestframework-simplejwt==5.3.1
+djangorestframework-simplejwt==5.4.0
 drf-yasg==1.21.7
 idna==3.7
 inflection==0.5.1
 itypes==1.2.0
-Jinja2==3.1.4
+Jinja2==3.1.5
 joblib==1.4.2
 Markdown==3.6
 MarkupSafe==2.1.5
